@@ -40,7 +40,7 @@ Sigue estos pasos para poner en marcha el generador de contraseñas:
 
 ## Autor
 
-* **[Tu Nombre Real Aquí]**
+* **[Francisco Daniel Jiménez Cunjamá]**
     * GitHub: [@drvnkhunter](https://github.com/drvnkhunter)
     * [LinkedIn `https://www.linkedin.com/in/frandanielcunjama/`)]
 
