@@ -24,12 +24,12 @@ Follow these steps to get the password generator up and running:
 1.  **Clone the Repository:**
     Open your terminal or command line and execute:
     ```bash
-    git clone [https://github.com/drunkhunter/generador-contrasenas.git](https://github.com/drunkhunter/generador-contrasenas.git)
+    git clone [https://github.com/drunkhunter/password_generator.git](https://github.com/drunkhunter/password-generator.git)
     ```
 
 2.  **Navigate to the Project Directory:**
     ```bash
-    cd generador-contrasenas
+    cd password-generator
     ```
 
 3.  **Run the Application:**
