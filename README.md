@@ -1,6 +1,6 @@
 # Generador de Contraseñas Seguras.
 
-Generador de contraseñas seguras desarrollado en Python y con una sencilla Interfaz Gráfica de Usuario. Ideal para la creación de pequeños porfatolios.
+Generador de contraseñas seguras desarrollado en Python y con una sencilla Interfaz Gráfica de Usuario. Ideal para la creación de pequeños portafolios de programación y ciberseguridad.
 
 ## Características Principales
 
