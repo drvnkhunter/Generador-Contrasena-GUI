@@ -42,6 +42,6 @@ Follow these steps to get the password generator up and running:
 
 * **[Francisco Daniel Jiménez Cunjamá]**
     * GitHub: [@drvnkhunter](https://github.com/drvnkhunter)
-    * [LinkedIn `https://www.linkedin.com/in/frandanielcunjama/`]
+    * Linkedin [LinkedIn](https://www.linkedin.com/in/frandanielcunjama/)
 
 ---
