@@ -24,12 +24,12 @@ Sigue estos pasos para poner en marcha el generador de contraseñas:
 1.  **Clonar el Repositorio:**
     Abre tu terminal o línea de comandos y ejecuta:
     ```bash
-    git clone [https://github.com/drunkhunter/Generador-Contrasena-GUI.git](https://github.com/drunkhunter/Generador-Contrasena-GUI.git)
+    git clone [https://github.com/drunkhunter/generador-contrasenas.git](https://github.com/drunkhunter/generador-contrasenas.git)
     ```
 
 2.  **Navegar al Directorio del Proyecto:**
     ```bash
-    cd Generador-Contrasena-GUI
+    cd generador-contrasenas
     ```
 
 3.  **Ejecutar la Aplicación:**
