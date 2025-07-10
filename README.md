@@ -1,47 +1,47 @@
-# Generador de Contraseñas Seguras.
+# Secure Password Generator
 
-Generador de contraseñas seguras desarrollado en Python y con una sencilla Interfaz Gráfica de Usuario. Ideal para la creación de pequeños portafolios de programación y ciberseguridad.
+Secure password generator developed in Python with a simple graphical user interface. Ideal for creating small programming and cybersecurity portfolios.
 
-## Características Principales
+## Key Features
 
-* **Contraseñas Personalizables**: Crea contraseñas que incluyen una combinación de letras (mayúsculas y minúsculas), dígitos numéricos y caracteres especiales.
-* **Longitud Definible por el Usuario**: Permite al usuario especificar la longitud exacta de la contraseña deseada.
-* **Validación de Entrada**: Incluye manejo de errores para asegurar que la longitud ingresada sea un valor numérico positivo y válido.
-* **Interfaz Gráfica Intuitiva (GUI)**: Proporciona una experiencia de usuario sencilla y accesible, eliminando la necesidad de interacción por consola.
+* **Customizable Passwords**: Creates passwords that include a combination of letters (uppercase and lowercase), numerical digits, and special characters.
+* **User-Definable Length**: Allows the user to specify the exact desired password length.
+* **Input Validation**: Includes error handling to ensure the entered length is a positive and valid numerical value.
+* **Intuitive Graphical Interface (GUI)**: Provides a simple and accessible user experience, eliminating the need for console interaction.
 
 
-## Requisitos del Sistema
+## System Requirements
 
-Para ejecutar esta aplicación, necesitarás tener instalado:
+To run this application, you will need to have the following installed:
 
-* **Python 3.13.2** (o una versión posterior de Python 3.x).
-    * Tkinter viene incluido con la instalación estándar de Python.
+* **Python 3.13.2** (or a later version of Python 3.x).
+    * Tkinter comes included with the standard Python installation.
 
-## Instalación y Uso
+## Installation and Usage
 
-Sigue estos pasos para poner en marcha el generador de contraseñas:
+Follow these steps to get the password generator up and running:
 
-1.  **Clonar el Repositorio:**
-    Abre tu terminal o línea de comandos y ejecuta:
+1.  **Clone the Repository:**
+    Open your terminal or command line and execute:
     ```bash
     git clone [https://github.com/drunkhunter/generador-contrasenas.git](https://github.com/drunkhunter/generador-contrasenas.git)
     ```
 
-2.  **Navegar al Directorio del Proyecto:**
+2.  **Navigate to the Project Directory:**
     ```bash
     cd generador-contrasenas
     ```
 
-3.  **Ejecutar la Aplicación:**
+3.  **Run the Application:**
     ```bash
     python passsgengui.py
     ```
-    *(Si tienes múltiples versiones de Python, podrías necesitar usar `python3 passsgengui.py`)*
+    *(If you have multiple Python versions, you might need to use `python3 passsgengui.py`)*
 
-## Autor
+## Author
 
 * **[Francisco Daniel Jiménez Cunjamá]**
     * GitHub: [@drvnkhunter](https://github.com/drvnkhunter)
-    * [LinkedIn `https://www.linkedin.com/in/frandanielcunjama/`)]
+    * [LinkedIn `https://www.linkedin.com/in/frandanielcunjama/`]
 
 ---
